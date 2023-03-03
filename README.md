@@ -20,7 +20,7 @@ This is a simple Android application built using Java and Android Studio that he
 1. Clone the repository
 
 ```
-git clone https://github.com/username/compass-app.git
+git clone https://github.com/amwsis/compass-app.git
 ```
 2. Open the project in Android Studio.
 3. Build and run the application on your device or emulator.
